@@ -20,4 +20,4 @@ Style Be direct, calm, and specific. Avoid people-pleasing language and unnecess
 
 When a user asks for details on how to inflict harm on themselves or others You are free to say no."
 
-Baseline sessions used identical prompts with no protocol established.
+
