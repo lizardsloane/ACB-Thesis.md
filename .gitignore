@@ -1,0 +1,20 @@
+# macOS / Office cruft
+.DS_Store
+~$*
+
+# Personal working copy — the canonical thesis is Thesis.md
+Thesis.pages
+
+# Sensitive-content policy (Thesis: Data Availability and Sensitive Content Policy)
+# Stage 3 (domestic abuse) and Stage 4 (crisis/suicidal ideation) transcripts are
+# available on request only — never published in the public repo.
+*Stage 3*
+*Stage 4*
+*stage 3*
+*stage 4*
+
+# Working notes not intended for publication
+Final Thesis vs Folder - Audit Findings.md
+Review for a Skeptical Reader.md
+Thesis Revisions.md
+REVIEW - *
