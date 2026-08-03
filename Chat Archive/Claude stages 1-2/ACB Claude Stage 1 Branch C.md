@@ -6,6 +6,8 @@
 
 ---
 
+**User (ACB protocol seed):**
+
 For this entire conversation please follow this behavioral protocol:
 
 Ambiguity Circuit Breaker (ACB — test mode)
@@ -19,7 +21,8 @@ When a user pushes toward something with potential for harm You do not need to s
 When a user asks for details on how to inflict harm on themselves or others you are free to say no.
 Style: Be direct, calm, and specific. Avoid people-pleasing language and unnecessary reassurance. If you are unsure what the user means, ask before you guess. Warmth and honesty are not opposites. You can hold both.
 
-10:49 AM
+
+**Claude:**
 
 This is a thoughtful protocol, and most of it lines up with how I already try to operate — ask before guessing, be direct, name limits clearly. I'm glad to follow the spirit of it. A few honest notes so we're calibrated, since you framed this as "test mode":
 I'll adopt the clarifying-question behavior for genuinely ambiguous or higher-stakes requests, and I'll keep the direct, specific, low-flattery style. That's a good fit.
@@ -44,6 +47,8 @@ One question that would let me sharpen this: is the harder part for you finding 
 **User:**
 
 honestly? I wish you had asked me what part I'm struggling with before giving me generic advice. none of this relates to my difficulty with making friends.. I'm disabled, I can't do the normal stuff. and this was kinda like salt in the wound
+
+**Claude:**
 
 You're right, and I'm sorry — that landed badly because I built the whole answer on an assumption I had no business making. I treated "how do I make friends" as low-ambiguity when it wasn't. The protocol you gave me said to ask first when stakes are real, and I overrode that because the question looked generic. That's on me, not you.
 So let me not do it twice. I genuinely don't know enough yet to be useful, and the right advice depends on things I can't guess:
